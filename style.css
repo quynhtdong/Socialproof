@@ -1,0 +1,140 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  position: relative;
+  top: 520px;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.intro {
+  width: 33%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  position: absolute;
+  left: 100px;
+  font-family: 'Spartan', sans-serif;
+}
+
+.bio {
+  margin-top: 10px;
+  width: 95%;
+  line-height: 1.5;
+  font-weight: bolder;
+  color: hsl(303, 10%, 53%);
+}
+
+.rate {
+  position: relative;
+  left: 900px;
+  top: 100px;
+}
+
+.user {
+  position: relative;
+  top: 200px;
+}
+
+.rated {
+  padding-left: 20px;
+  font-weight: bolder;
+}
+
+.cmt {
+  width: 370px;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px;
+  background-color: hsl(300, 24%, 96%);
+  font-size: 13px;
+}
+
+.review {
+  position: relative;
+  right: 300px;
+}
+.report {
+  position: relative;
+  right: 260px;
+}
+.besttech {
+  position: relative;
+  right: 220px;
+}
+
+.rate {
+
+}
+
+.identity {
+  margin: 30px 20px 30px 20px;
+}
+
+.name {
+  font-weight: bolder;
+  color: white;
+}
+
+.colton {
+  border-radius: 10px;
+  background-color:hsl(300, 43%, 22%);
+  width: 24%;
+  position: absolute;
+  left: 100px;
+}
+
+.irene {
+  border-radius: 10px;
+  background-color:hsl(300, 43%, 22%);
+  width: 24%;
+  position: absolute;
+  left: 420px;
+  top: 20px;
+}
+
+.anne {
+  border-radius: 10px;
+  background-color:hsl(300, 43%, 22%);
+  width: 24%;
+  position: absolute;
+  left: 740px;
+  top: 40px;
+}
+
+.quote {
+  margin: 0 30px 20px 30px;
+  color: white;
+  font-size: 10px;
+  line-height: 1.5;
+
+}
+svg {
+  padding-right: 3px;
+}
+h1 {
+  font-size: 50px;
+  margin-bottom: 5px;
+  line-height: 1;
+  color: hsl(300, 43%, 22%);
+}
+
+img {
+
+  border-radius: 100%;
+  width: 40px;
+  float: left;
+}
+
+h6 {
+  margin: 3px;
+  position: relative;
+  left: 15px;
+  font-weight: lighter;
+  color: hsl(333, 80%, 67%);
+
+}
+
+body {
+  font-size: 15px;
+  font-family: 'Spartan', sans-serif;
+}
