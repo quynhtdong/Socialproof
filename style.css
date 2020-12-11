@@ -42,6 +42,7 @@
 }
 
 .cmt {
+  position: relative;
   width: 370px;
   padding: 10px 20px 10px 20px;
   border-radius: 5px;
@@ -50,20 +51,13 @@
 }
 
 .review {
-  position: relative;
   right: 300px;
 }
 .report {
-  position: relative;
   right: 260px;
 }
 .besttech {
-  position: relative;
   right: 220px;
-}
-
-.rate {
-
 }
 
 .identity {
@@ -75,28 +69,22 @@
   color: white;
 }
 
-.colton {
+.feedback {
   border-radius: 10px;
   background-color:hsl(300, 43%, 22%);
   width: 24%;
   position: absolute;
+}
+.colton{
   left: 100px;
 }
 
 .irene {
-  border-radius: 10px;
-  background-color:hsl(300, 43%, 22%);
-  width: 24%;
-  position: absolute;
   left: 420px;
   top: 20px;
 }
 
 .anne {
-  border-radius: 10px;
-  background-color:hsl(300, 43%, 22%);
-  width: 24%;
-  position: absolute;
   left: 740px;
   top: 40px;
 }
@@ -106,8 +94,8 @@
   color: white;
   font-size: 10px;
   line-height: 1.5;
-
 }
+
 svg {
   padding-right: 3px;
 }
